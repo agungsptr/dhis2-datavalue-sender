@@ -1,0 +1,13 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "main": "",
+  "author": "agungsptr",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.26.1",
+    "moment": "^2.29.2",
+    "node-schedule": "^2.1.0"
+  }
+}
